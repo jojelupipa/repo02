@@ -44,6 +44,15 @@ Asumiendo que se han configurado un origen remoto (con `git remote add <url>`) y
 Para enviar o recuperar el estado actual del repositorio local al remoto o viceversa.
 
 *Nota: Cuando clonas un repositorio con git clone, el origen remoto y la configuración del upstream se establece por defecto a la rama master*.
+  
+## Lo más importante... ¡El manual es tu amigo!
+
+Ante cualquier duda, puedes consultar lo que hace un comando añadiendo la opción -h al final del mismo.
+
+> git -h
+> git commit -h
+> git add -h
+> etc
 
 ¡Muchas gracias por su atención!
 
